@@ -1,16 +1,64 @@
 seb:
   owner_name: Sebastien Saunier
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars0.githubusercontent.com/u/26386903?v=3
   name: Seb's home
   summary: Charming room in Montmartre
   city: Paris, France
   wifi: true
 romain:
   owner_name: Romain Paillard
-  picture: http://placehold.it/150x150
-  owner_picture: http://placehold.it/150x150
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars1.githubusercontent.com/u/15351435?v=3
   name: Romain's home
   summary: Nice flat in Piccadilly
   city: London, UK
   wifi: false
+chirac:
+  owner_name: Jacques Chirac
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars3.githubusercontent.com/u/15720142?v=3
+  name: Chirac's home
+  summary: Nice flat in front of Louvre
+  city: Paris
+  wifi: true
+banane:
+  owner_name: Sebastien Saunier
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars0.githubusercontent.com/u/21340608?v=3
+  name: Seb's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+andré:
+  owner_name: Romain Paillard
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars1.githubusercontent.com/u/15351435?v=3
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+pierrot:
+  owner_name: Jacques Chirac
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars3.githubusercontent.com/u/15720142?v=3
+  name: Chirac's home
+  summary: Nice flat in front of Louvre
+  city: Paris
+  wifi: true
+lefou:
+  owner_name: Romain Paillard
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars1.githubusercontent.com/u/15351435?v=3
+  name: Romain's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+pomme:
+  owner_name: Jacques Chirac
+  picture: https://unsplash.it/150/150
+  owner_picture: https://avatars3.githubusercontent.com/u/15720142?v=3
+  name: Chirac's home
+  summary: Nice flat in front of Louvre
+  city: Paris
+  wifi: true
