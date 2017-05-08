@@ -1,0 +1,10 @@
+<% team_hash = {"AMikli":{"url":"https://avatars2.githubusercontent.com/u/25741493?v=3","count":1178},"Aporcheron":{"url":"https://avatars1.githubusercontent.com/u/25384564?v=3","count":1208},"alden123":{"url":"https://avatars2.githubusercontent.com/u/25634191?v=3","count":1266},"alexandre18grenier":{"url":"https://avatars0.githubusercontent.com/u/26217119?v=3","count":1241},"Laguine":{"url":"https://avatars1.githubusercontent.com/u/25386153?v=3","count":1254},"Arnaudboscq":{"url":"https://avatars3.githubusercontent.com/u/26063436?v=3","count":1226}} %>
+
+<ul class="list-inline text-center">
+  <% team_hash.each do |member, m_hash| %>
+    <li>
+      <img src="<%= m_hash[:url] %>" class="img-circle avatar-large">
+      <h3><%= member.capitalize %></h3>
+    </li>
+  <% end %>
+</ul>
